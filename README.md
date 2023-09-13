@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanCocacola
 - 👀 I’m interested in Game Development in Unreal Engine 5, Muay Thay, C++ Programing and anime
-- 🌱 I’m currently learning how to program in C++
+- 🌱 I’m currently learning how to program in C++, and to speak Japanese
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Danalexandrucocacola@gmail.com
 
